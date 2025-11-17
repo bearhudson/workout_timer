@@ -1,0 +1,14 @@
+{
+  "name": "calisthenics-express-timer",
+  "version": "1.0.0",
+  "description": "An Express-based web timer for the calisthenics upper body workout routine.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
